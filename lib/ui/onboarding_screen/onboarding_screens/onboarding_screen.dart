@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import '../widgets/onboard_page.dart';
-import 'home_screen.dart';
+import '../../home/screen/home_screen.dart';
+import '../onboarding_widgets/onboard_page.dart';
+
 
 class OnboardingScreen extends StatefulWidget {
   static const String routeName = 'onboarding';
