@@ -13,4 +13,10 @@ abstract class AssetManager{
  static const String sebhaBody = 'assets/images/SebhaBody.png';
  static const String sebhaTile = 'assets/images/SebhaTile.png';
  static const String islami = 'assets/images/islami.png';
+ static const String quranBack = 'assets/images/quran_back.png';
+ static const String mostRecently = 'assets/images/most_recent.png';
+ static const String hex = 'assets/images/hex.svg';
+ static const String left = 'assets/images/left.png';
+ static const String right = 'assets/images/right.png';
+ static const String bottom = 'assets/images/bottom.png';
 }
